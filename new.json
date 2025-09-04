@@ -1,0 +1,10 @@
+{
+    "name": "example",
+    "version": 1.0,
+    "active": true,
+    "items": [
+        "item1",
+        "item2",
+        "item3"
+    ]
+}
